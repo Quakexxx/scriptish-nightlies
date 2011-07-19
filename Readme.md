@@ -1,7 +1,7 @@
 Scriptish Nightly Builds
 ---
 
-This repository hosts (Scriptish)[http://scriptish.org/] nightly builds.
+This repository hosts [Scriptish](http://scriptish.org/) nightly builds.
 
 Nightly builds are generated automatically from the latest development source code once every night.
 Hence such builds are absolutely bleeding-edge and may contain serious bugs.
